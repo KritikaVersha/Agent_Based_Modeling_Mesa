@@ -1,9 +1,11 @@
 # Agent_Based_Modeling_Mesa
 
-# Course content created by: Kritika Versha
-# Instructor: Kritika Versha
-# Timeline: 2-day training (14 hours)
-# Programming Language: Python
+#### Course content created by: Kritika Versha
+#### Instructor: Kritika Versha
+#### Timeline: 2-day training (14 hours)
+#### Programming Language: Python
+
+
 
 From Wikipedia, the free encyclopedia
 
